@@ -16,5 +16,12 @@ Link to dataset: `https://www.kaggle.com/wendykan/lending-club-loan-data/kernels
 
 ```python main.py```
 
+### Dockerized App
+
+If you want to use the dockerized applcation, please enter the following commands.
+
+```docker build -t some-tag .```
+
+```docker run some-tag```
 
 `Note`: You can also go through the `main` Jupyter Notebook for clear representation of the plots formed in the challenge and understand my modeling better.
