@@ -1,7 +1,5 @@
 # Credit Risk Analysis - Loan Defaulters
 
-Name: Sriram Veturi
-
 ## Description
 
 Credit Risk Analysis. Predictions of loan defaulters (Class Imbalanced Problem).
