@@ -494,7 +494,7 @@ def logistic_regression_modelling(x_train_res, y_train_res, X_test, y_test):
 # Main function starts here..
 if __name__ == "__main__":
 
-    df = get_data('data.csv')
+    df = get_data('application/data.csv')
     df = visualize_class_label(df)
     df = preprocess_dataset(df)
     df = visualize_features(df)
