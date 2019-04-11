@@ -4,6 +4,10 @@
 
 Credit Risk Analysis. Predictions of loan defaulters (Class Imbalanced Problem).
 
+```
+python main.py
+```
+
 ## How to run?
 
 Open up terminal in the directory where `main.py` is stored and enter the below command. 
@@ -13,8 +17,6 @@ Make sure the `data.csv` file is present in the same directory.
 The data is fetched from Kaggle:
 
 Link to dataset: `https://www.kaggle.com/wendykan/lending-club-loan-data/kernels`
-
-```python main.py```
 
 ### Dockerized App
 
