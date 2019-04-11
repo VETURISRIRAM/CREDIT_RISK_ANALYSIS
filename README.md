@@ -4,13 +4,13 @@
 
 Credit Risk Analysis. Predictions of loan defaulters (Class Imbalanced Problem).
 
-```
-python main.py
-```
-
 ## How to run?
 
 Open up terminal in the directory where `main.py` is stored and enter the below command. 
+
+```
+python main.py
+```
 
 Make sure the `data.csv` file is present in the same directory.
 
