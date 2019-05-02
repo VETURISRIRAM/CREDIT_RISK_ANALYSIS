@@ -16,7 +16,7 @@ Make sure the `data.csv` file is present in the same directory.
 
 The data is fetched from Kaggle:
 
-Link to dataset: `https://www.kaggle.com/wendykan/lending-club-loan-data/kernels`
+Link to dataset: `https://www.kaggle.com/wendykan/lending-club-loan-data/`
 
 ### Dockerized App
 
