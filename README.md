@@ -27,3 +27,10 @@ If you want to use the dockerized applcation, please enter the following command
 ```docker run some-tag```
 
 `Note`: You can also go through the `main` Jupyter Notebook for clear representation of the plots formed in the challenge and understand my modeling better.
+
+
+## Python Notebook doesn't load?
+
+If the Python Notebook does not load in the browser or you see something like `Sorry, something went wrong. Reload?`, you can open it <a href="https://nbviewer.jupyter.org/github/VETURISRIRAM/CREDIT_RISK_ANALYSIS/blob/master/main.ipynb">here<a>.
+
+
